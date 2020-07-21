@@ -6,4 +6,4 @@ main output file with correct properties under each header.
 ## Usage
 
 - Change to desired input file name in `index.php` file. `$inputFile = file('yourinputfilehere.csv');`
-- run `index.php` file in console and it will append new content to output file.
+- run `index.php` file in console and it will append new content to output file if there is one.
