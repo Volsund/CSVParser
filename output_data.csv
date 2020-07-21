@@ -1,0 +1,12 @@
+ “name”,“surname”, “address”, “city”, “gender” , “soc_security_num”
+“John”,“Doe”, ”Street 123”, ””, ””, ””
+“Jane”,“Doe”, ”Street 999”, ””, ””, ””
+””,“Doe”, ””, ”London”, ”male”, ””
+”Jane”,“Doe”, ””, ””, ””, ”555-111-222-000”
+””,”Doe”,””,”London”,”male”,””
+””,”Bob”,””,”Riga”,”male”,””
+””,”Doe”,””,”London”,”male”,””
+””,”Bob”,””,”Riga”,”male”,””
+”Jane”,”Doe”,””,””,””,”555-111-222-000”
+”Jane”,”Doe”,””,””,””,”555-111-222-000”
+”William”,”DaFoe”,””,””,””,”532-144-156-020”
